@@ -1,0 +1,1 @@
+# GlobStory-Wikipedia-user-script
